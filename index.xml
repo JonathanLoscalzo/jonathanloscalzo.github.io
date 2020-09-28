@@ -8,6 +8,15 @@
     <language>es</language>
     <lastBuildDate>Mon, 21 Sep 2020 00:03:32 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://jonathanloscalzo.github.io/about/</link>
+      <pubDate>Mon, 28 Sep 2020 09:32:26 -0300</pubDate>
+      
+      <guid>https://jonathanloscalzo.github.io/about/</guid>
+      <description>Esto es about</description>
+    </item>
+    
+    <item>
       <title>DDD: principios, beneficios y elementos — 2da Parte</title>
       <link>https://jonathanloscalzo.github.io/2018/06/ddd-part-2/</link>
       <pubDate>Sun, 17 Jun 2018 18:01:18 -0300</pubDate>
@@ -34,7 +43,8 @@
       <description>Jonathan Loscalzo Contacto Email:  jonathan.r.loscalzo@gmail.com
 Redes:  Linkedin,  Medium
 Residencia: La Plata, Buenos Aires, Argentina
-Área de interés / Skills Experiencia Hexacta - Software Developer (Julio 2014 - Actualidad) TABI - UNLP - Ayudante Cátedra (2019 - actualidad) Me desempeño como ayudante de la materia Tecnologías Aplicadas a Business Intelligence.
+Área de interés / Skills Completar
+Experiencia Hexacta - Software Developer (Julio 2014 - Actualidad) TABI - UNLP - Ayudante Cátedra (2019 - Actualidad) Me desempeño como ayudante de la materia Tecnologías Aplicadas a Business Intelligence.
 Tecnologías: Suite Pentaho.
 Proyectos Degustando (Junio 2019 - Actualidad) Desarrollo de la primera plataforma de Delivery y Take Away de la ciudad de Posadas, Misiones.</description>
     </item>
