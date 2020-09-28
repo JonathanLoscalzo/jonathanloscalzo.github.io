@@ -2,12 +2,15 @@
 name: Refresh
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 3 * * *' # Runs every day at 3am
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    on: 
+        
     steps:
       - name: Trigger GitHub pages rebuild
         run: |
