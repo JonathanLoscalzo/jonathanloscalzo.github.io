@@ -10,12 +10,12 @@ title = "Curriculum"
 **Residencia**: La Plata, Buenos Aires, Argentina
 
 ## Área de interés / Skills
-
+Completar
 
 ## Experiencia
 ### Hexacta - Software Developer (Julio 2014 - Actualidad)
 
-### TABI - UNLP - Ayudante Cátedra (2019 - actualidad)
+### TABI - UNLP - Ayudante Cátedra (2019 - Actualidad)
 Me desempeño como ayudante de la materia Tecnologías Aplicadas a Business Intelligence.   
 Tecnologías: Suite Pentaho.
 
@@ -31,7 +31,7 @@ Desarrollo y coordinación de curso dirigido a la comunidad.
 Alrededor de 200 inscriptos. El curso consta del desarrollo de una arquitectura semejante a proyecto de tamaño mediano.  
 Stack: React, Redux, Netcore, N-layer, Ducks. 
 
-### Renovación Extranets - YPF - Hexacta
+### Renovación Extranets - YPF - Hexacta (2018-2019)
 Ampliación y renovación de un proyecto existente.
 Gestión de Pedidos, incidencias, etc. para usuarios correspondientes de la extranet de la empresa YPF.  
 Stack: SharePoint, Jquery, C#, TFS.
@@ -50,3 +50,4 @@ Me encuentro desarrollando la tesina
 ## Idiomas
 Español - Nativo  
 Inglés - B2  
+[about](/about)
