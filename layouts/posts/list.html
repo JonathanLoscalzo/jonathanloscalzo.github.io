@@ -1,0 +1,24 @@
+{{ define "title" }}
+{{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+<section class="container list" style='display: flex'>
+  <h1 class="title"> {{ title (i18n (lower .Title)) | default .Title }} </h1>
+  <div>
+    {{ .Content }}
+
+
+    <ul>
+      {{- range .Paginator.Pages -}}
+      {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+  </div>
+  <!-- <div style="align-self: stretch">
+    {{ partial "all-taxonomies.html" .}}
+  </div> -->
+
+</section>
+{{ end }}
