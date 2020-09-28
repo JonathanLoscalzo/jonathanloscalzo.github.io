@@ -48,6 +48,16 @@
   
   <url>
     <loc>https://jonathanloscalzo.github.io/en/resume/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jonathanloscalzo.github.io/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jonathanloscalzo.github.io/en/resume/"
+                />
   </url>
   
   <url>
