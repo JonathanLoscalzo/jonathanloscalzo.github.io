@@ -25,7 +25,7 @@ disqusShortname = "jonathanloscalzo"
     description = "Jonathan's personal website"
     keywords = "resume,blog,developer,personal"
     info = "Software Developer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar-jloscalzo.jpeg"
     #gravatar = "john.doe@example.com"
     # footercontent = "Enter a text here."
 
@@ -59,7 +59,9 @@ disqusShortname = "jonathanloscalzo"
 
     # Custom JS
     custom_js = []
-
+    
+    favicon_32 = "/images/icons8-laptop-16x16.png"
+    favicon_16 = "/images/icons8-laptop-16x16.png"
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
 #     siteID = "ABCDE"
