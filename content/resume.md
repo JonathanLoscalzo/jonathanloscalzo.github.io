@@ -1,7 +1,6 @@
 +++
 title = "Curriculum"
 slug = "resume"
-draft = false
 
 +++
 
