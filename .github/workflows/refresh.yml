@@ -9,8 +9,6 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    on: 
-        
     steps:
       - name: Trigger GitHub pages rebuild
         run: |
