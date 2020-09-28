@@ -1,7 +1,5 @@
 +++
 title = "Curriculum"
-slug = "resume"
-
 +++
 
 # Jonathan Loscalzo
