@@ -2,7 +2,7 @@
 draft = false
 date = 2020-09-21T00:03:32-03:00
 title = "Posts"
-description = "Listado de posteos"
+description = "Posts"
 slug = "" 
 tags = []
 categories = []
