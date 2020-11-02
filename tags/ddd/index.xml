@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DDD on Jonathan Loscalzo</title><link>https://jonathanloscalzo.github.io/tags/ddd/</link><description>Recent content in DDD on Jonathan Loscalzo</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Sun, 17 Jun 2018 18:01:18 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml"/><item><title>DDD: principios, beneficios y elementos — 2da Parte</title><link>https://jonathanloscalzo.github.io/2018/06/ddd-part-2/</link><pubDate>Sun, 17 Jun 2018 18:01:18 -0300</pubDate><guid>https://jonathanloscalzo.github.io/2018/06/ddd-part-2/</guid><description/></item><item><title>DDD: principios, beneficios y elementos — 1ra Parte</title><link>https://jonathanloscalzo.github.io/2018/04/ddd-part-1/</link><pubDate>Sat, 21 Apr 2018 18:01:18 -0300</pubDate><guid>https://jonathanloscalzo.github.io/2018/04/ddd-part-1/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDD on Jonathan Loscalzo</title>
+    <link>https://jonathanloscalzo.github.io/tags/ddd/</link>
+    <description>Recent content in DDD on Jonathan Loscalzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 17 Jun 2018 18:01:18 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD: principios, beneficios y elementos — 2da Parte</title>
+      <link>https://jonathanloscalzo.github.io/2018/06/ddd-part-2/</link>
+      <pubDate>Sun, 17 Jun 2018 18:01:18 -0300</pubDate>
+      
+      <guid>https://jonathanloscalzo.github.io/2018/06/ddd-part-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDD: principios, beneficios y elementos — 1ra Parte</title>
+      <link>https://jonathanloscalzo.github.io/2018/04/ddd-part-1/</link>
+      <pubDate>Sat, 21 Apr 2018 18:01:18 -0300</pubDate>
+      
+      <guid>https://jonathanloscalzo.github.io/2018/04/ddd-part-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

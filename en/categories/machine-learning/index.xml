@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>machine-learning on Jonathan Loscalzo</title><link>https://jonathanloscalzo.github.io/en/categories/machine-learning/</link><description>Recent content in machine-learning on Jonathan Loscalzo</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 30 Oct 2020 11:44:43 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/en/categories/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Regression Metrics</title><link>https://jonathanloscalzo.github.io/en/2020/10/regression-metrics/</link><pubDate>Fri, 30 Oct 2020 11:44:43 -0300</pubDate><guid>https://jonathanloscalzo.github.io/en/2020/10/regression-metrics/</guid><description>I&amp;rsquo;ve been writing a summary of the most common regression metrics, and when to use each one.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Jonathan Loscalzo</title>
+    <link>https://jonathanloscalzo.github.io/en/categories/machine-learning/</link>
+    <description>Recent content in machine-learning on Jonathan Loscalzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 30 Oct 2020 11:44:43 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/en/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regression Metrics</title>
+      <link>https://jonathanloscalzo.github.io/en/2020/10/regression-metrics/</link>
+      <pubDate>Fri, 30 Oct 2020 11:44:43 -0300</pubDate>
+      
+      <guid>https://jonathanloscalzo.github.io/en/2020/10/regression-metrics/</guid>
+      <description>I&amp;rsquo;ve been writing a summary of the most common regression metrics, and when to use each one.
 Metrics:
-Mean Squared Error - MSE Root Mean Squared Error - RMSE Mean Absolute Error - MAE R squared - R² MSE: Mean Squared Error It is the average between the differece of prediction and real data, squared. It is a loss function, so to optimize we will try to minimize it.</description></item></channel></rss>
+ Mean Squared Error - MSE Root Mean Squared Error - RMSE Mean Absolute Error - MAE R squared - R²  MSE: Mean Squared Error It is the average between the differece of prediction and real data, squared. It is a loss function, so to optimize we will try to minimize it.</description>
+    </item>
+    
+  </channel>
+</rss>
