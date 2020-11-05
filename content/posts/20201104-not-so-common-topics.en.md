@@ -17,6 +17,12 @@ I gathered them because these are not technical topics per se, are more related 
 ## General:
 - [Machine Learning from Wikipedia](https://en.wikipedia.org/wiki/Category:Machine_learning)
 - [AI transform playbook](https://landing.ai/ai-transformation-playbook/)
+- [machine-learning-yearning](https://www.deeplearning.ai/machine-learning-yearning/)
+- [tatistical inference in one sentence](https://medium.com/hackernoon/statistical-inference-in-one-sentence-33a4683a6424)
+- [data jujitsu][http://radar.oreilly.com/2012/07/data-jujitsu.html]
+- [Rules of ML - martin.zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and summary [here](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+- [SE4ML](https://se4ml.org/)
 
 ## AI Literacy
 - [What is AI Literacy? Competencies and Design Considerations](https://static1.squarespace.com/static/53c69580e4b08011fc2337bf/t/5e2893e4a9d342214836e832/1579717605435/CHI+2020+AI+Literacy+Paper-Camera+Ready.pdf) and [video](https://www.youtube.com/watch?v=DIgBJ8Af7e0)
@@ -25,8 +31,9 @@ I gathered them because these are not technical topics per se, are more related 
 
 ## MLOps
 - [MLOps: automation pipelines and CD in AI](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=es-419)
-- [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) and [here](https://research.google/pubs/pub43146/)
+- [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) and summary [here](https://research.google/pubs/pub43146/)
 - [Automating the end-to-end lifecycle of Machine Learning applications - M. Fowler Blog](https://martinfowler.com/articles/cd4ml.html)
+- [A Brief Guide to Running ML Systems in Production](https://research.google/pubs/pub49282/)
 
 ## Agile
 - [Agile Machine Learning: Effective Machine Learning - Book](https://www.amazon.com/-/es/Eric-Carter/dp/1484251067)
