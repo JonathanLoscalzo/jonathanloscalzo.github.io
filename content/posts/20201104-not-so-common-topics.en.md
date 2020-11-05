@@ -18,7 +18,7 @@ I gathered them because these are not technical topics per se, are more related 
 - [Machine Learning from Wikipedia](https://en.wikipedia.org/wiki/Category:Machine_learning)
 - [AI transform playbook](https://landing.ai/ai-transformation-playbook/)
 - [machine-learning-yearning](https://www.deeplearning.ai/machine-learning-yearning/)
-- [tatistical inference in one sentence](https://medium.com/hackernoon/statistical-inference-in-one-sentence-33a4683a6424)
+- [statistical inference in one sentence](https://medium.com/hackernoon/statistical-inference-in-one-sentence-33a4683a6424)
 - [data jujitsu][http://radar.oreilly.com/2012/07/data-jujitsu.html]
 - [Rules of ML - martin.zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) and summary [here](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - [Problem Framing](https://developers.google.com/machine-learning/problem-framing)
