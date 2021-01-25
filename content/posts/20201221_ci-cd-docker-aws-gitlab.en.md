@@ -11,7 +11,11 @@ series = []
 +++
 
 
-## Links
+## Docker Swarm tips - Links
+I gathered some links that helped me to enhance my knowledge to carry out docker to production.
+
+Also, it is important to read [ssh tips](/2020/11/ssh-some-tips/).
+
 
 ### Cheatsheets
 - [docker compose](https://devhints.io/docker-compose)
