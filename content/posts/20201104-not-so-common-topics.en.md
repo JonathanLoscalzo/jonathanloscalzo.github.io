@@ -1,18 +1,21 @@
 +++ 
 draft = false
 date = 2020-11-04T13:58:29-03:00
-title = "Diverse Topics of Machine Learning"
+title = "Diverse Topics in Machine Learning"
 description = "papers & posts of AI Literacy, MLOps, agile teams, and more..."
 slug = "" 
-tags = ["machine-learning", "software-engineering", "mlops", "ai-literacy"]
+tags = ["machine-learning", "software-engineering", "mlops", "ai-literacy", "ethics"]
 categories = ["machine-learning"]
 externalLink = ""
 series = []
 +++
 
-I am going to gather diverse topics of ML, but I won't discuss none of them. 
+# Diverse Topics in ML
+
+I am going to gather diverse topics regarding to ML, but I won't discuss none of them. 
 I gathered them because these are not technical topics per se, are more related to theory or part of the ecosystem.
 
+When I will able to add more, I will do.
 
 ## General:
 - [Machine Learning from Wikipedia](https://en.wikipedia.org/wiki/Category:Machine_learning)
@@ -47,3 +50,9 @@ I gathered them because these are not technical topics per se, are more related 
 - [Ethics and Fairness - Yann LeCun &  Timnit Gebru Discuss](https://twitter.com/ylecun/status/1276318825445765120)
 - [Institute of Ethical AI](https://ethical.institute/)
 - [Ethical AI Services](https://ethicalai.ai/)
+
+## Democratize it!
+
+- [paperwithcode: ZeRO-Offload: Democratizing Billion-Scale Model Training](https://paperswithcode.com/paper/zero-offload-democratizing-billion-scale)
+- [paper: The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research](https://arxiv.org/abs/2010.15581)
+- [The Democratization of Machine Learning: What It Means for Tech Innovation](https://knowledge.wharton.upenn.edu/article/democratization-ai-means-tech-innovation/)
