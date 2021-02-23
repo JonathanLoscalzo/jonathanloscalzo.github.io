@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sysadmin on Jonathan Loscalzo</title><link>https://jonathanloscalzo.github.io/categories/sysadmin/</link><description>Recent content in sysadmin on Jonathan Loscalzo</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2020 07:42:31 -0300</lastBuildDate><atom:link href="https://jonathanloscalzo.github.io/categories/sysadmin/index.xml" rel="self" type="application/rss+xml"/><item><title>SSH some tips</title><link>https://jonathanloscalzo.github.io/2020/11/ssh-some-tips/</link><pubDate>Tue, 24 Nov 2020 07:42:31 -0300</pubDate><guid>https://jonathanloscalzo.github.io/2020/11/ssh-some-tips/</guid><description>SSH: Information Tips I gathered some articles that helped me and I usually take them into account.
+SSH CheatSheet
+Manage Multiple SSH key pairs
+AWS - Connecting to your Linux instance using SSH
+Find active SSH connections on linux</description></item></channel></rss>
