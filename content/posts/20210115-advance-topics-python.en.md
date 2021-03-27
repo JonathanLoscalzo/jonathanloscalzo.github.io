@@ -18,6 +18,7 @@ series = []
 - [python async features - Real Python](https://realpython.com/python-async-features/)  
 - [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
 - [Fast & Asynchronous in Python - Accelerate Your Requests Using asyncio](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
+- [Developing with asyncio - Python docs](https://docs.python.org/3/library/asyncio-dev.html)
 
 ### GIL and concurrency
 The Python interpreter is not fully thread-safe, in order to support multithreading there is a "global lock" in CPython. Other implementations doesn't have GIL, such Jython, IronPython. Cython has GIL but it can be released by a "with" statement.
