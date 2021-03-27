@@ -15,4 +15,4 @@ No todo en Machine Learning es entrenar y predecir. Recogí ciertos links/papers
 
 Iré agregando más cuando lo crea conveniente.
 
-Go to [here](/2020/11/diverse-topics-of-machine-learning/)
+Go to [here](/2020/11/diverse-topics-in-machine-learning/)
