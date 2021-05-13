@@ -20,6 +20,7 @@ series = []
 - [Fast & Asynchronous in Python - Accelerate Your Requests Using asyncio](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
 - [Developing with asyncio - Python docs](https://docs.python.org/3/library/asyncio-dev.html)
 
+
 ### GIL and concurrency
 The Python interpreter is not fully thread-safe, in order to support multithreading there is a "global lock" in CPython. Other implementations doesn't have GIL, such Jython, IronPython. Cython has GIL but it can be released by a "with" statement.
 
@@ -28,6 +29,7 @@ The Python interpreter is not fully thread-safe, in order to support multithread
 - [multithreading vs multiprocessing](https://medium.com/contentsquare-engineering-blog/multithreading-vs-multiprocessing-in-python-ece023ad55a)
 - [multithreading in python](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/#:~:text=The%20multiprocessing%20library%20gives%20each,modify%20the%20same%20memory%20concurrently.)
 - [Faster web scraping - Nick from RAPIDS](https://beckernick.github.io/faster-web-scraping-python/)  
+- [MASNUM - the different forms of concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
 
 
 ### Conventions: 
