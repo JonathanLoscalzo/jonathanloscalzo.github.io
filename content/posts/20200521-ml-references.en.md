@@ -1,10 +1,10 @@
 +++ 
-draft = true
-date = 2021-02-02T11:27:50-03:00
-title = "ML Courses"
+draft = false
+date = 2021-0-021T11:27:50-03:00
+title = "ML References"
 description = ""
 slug = "" 
-tags = []
+tags = ["machine-learning", "mlops"]
 categories = []
 externalLink = ""
 series = []
@@ -91,6 +91,6 @@ series = []
 
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
-- https://huyenchip.com/2020/12/30/mlops-v2.html
+- [MLOps Tooling Landscape v2 - Chip Huyen](https://huyenchip.com/2020/12/30/mlops-v2.html)
 
 
