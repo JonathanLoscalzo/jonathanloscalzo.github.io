@@ -13,6 +13,11 @@ They could be POC's, prototypes, challenges, conferences, courses...
 By the way, they are not sorted in some specific way, and there are others, it just a summary.
 If you need more information, get in touch!
 
+### [Package References: from a legacy to a new winservice, detect difference between packages](https://jovian.ai/jonathanloscalzo/20210224-compare-csharp-packages)
+This script compares between a legacy winservice and a new development (by me). 
+[Here](https://jovian.ai/jonathanloscalzo/20210224-compare-csharp-packages/v/3/files?filename=diferencias_refs.csv) is the output of script.
+
+
 ### [Simple Winservice using Topshelf](https://github.com/JonathanLoscalzo/SimpleWinServicePoC)
 Simple winservice development using topshelf, autofac, serilog and quartz.
 
