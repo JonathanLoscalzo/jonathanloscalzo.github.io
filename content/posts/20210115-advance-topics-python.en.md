@@ -51,4 +51,5 @@ The Python interpreter is not fully thread-safe, in order to support multithread
 ### Floating Point issues
 - [Floating Point: issues and limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
 - [decimal module](https://docs.python.org/3/library/decimal.html#module-decimal)
+- [Floating in Python](https://www.scaler.com/topics/float-in-python/)
 
